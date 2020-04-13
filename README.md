@@ -33,3 +33,8 @@ Please take a look in the notebook to see the results.
 
 # Licensing, Authors, Acknowledgements
 The data for this project comes from the website www.insideairbnb.com. Thanks for making this exciting piece of data available to the public.
+
+# Blog Post
+I have turned some of the results into a compelling medium story that you can read here: 
+
+https://medium.com/@marcus.winter.privat/plan-a-trip-to-berlin-four-tips-for-your-booking-on-airbnb-e91079640be3
